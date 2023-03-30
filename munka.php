@@ -12,4 +12,11 @@ $c = 12;
 
 print $a + $b + $c;
 
+
+
+
+
+
+
+//Itt a vége, fuss el végre.
 ?>

@@ -22,6 +22,7 @@ $y = 19;
 print "<br /><br />" . $x  - $y;
 print "Konfliktus lesz...";
 
+<<<<<<< HEAD
 //szorzas
 //========================
 
@@ -30,6 +31,15 @@ $nagy =23;
 
 print ($kicsi * $nagy) . "<br /><br />";
 
+=======
+
+//osztas
+//========================
+$egyik = 25;
+$masik = 5;
+
+print ($egyik/$masik) . "<br /><br />";
+>>>>>>> osztas
 
 
 

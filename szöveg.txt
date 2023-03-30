@@ -1,4 +1,8 @@
-Első sor.
+Első sor...
+
+Második sor...
+
+Harmadik sor...
 
 git config --global user.email "vakants@gmail.com"
 git config --global user.name "vakants"

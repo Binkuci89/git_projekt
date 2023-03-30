@@ -20,13 +20,19 @@ $x = 15;
 $y = 19;
 
 print "<br /><br />" . $x  - $y;
+print "Konfliktus lesz...";
+
+//szorzas
+//========================
+
+$kicsi = 3;
+$nagy =23;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
+
 
 
 //Itt a vége, fuss el végre.
 //========================
-
-
-print "Konfliktus lesz...";
-
-
 ?>

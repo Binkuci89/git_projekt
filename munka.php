@@ -17,17 +17,15 @@ print $a + $b + $c;
 //========================
 
 $x = 15;
-$y = 19;
-$z = 37;
+$y = 59;
+$z = 370;
 
-print "<br /><br />" . $x  - $y;
+print "<br /><br />" . $z  - $y - $x;
 
 
 //Itt a vége, fuss el végre.
 //========================
 
-
-print "Konfliktus lesz...";
 
 
 ?>

@@ -18,6 +18,7 @@ print $a + $b + $c;
 
 $x = 15;
 $y = 19;
+$z = 37;
 
 print "<br /><br />" . $x  - $y;
 

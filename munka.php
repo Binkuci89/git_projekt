@@ -20,13 +20,18 @@ $x = 15;
 $y = 19;
 
 print "<br /><br />" . $x  - $y;
+print "Konfliktus lesz...";
+
+
+//osztas
+//========================
+$egyik = 25;
+$masik = 5;
+
+print ($egyik/$masik) . "<br /><br />";
+
 
 
 //Itt a vége, fuss el végre.
 //========================
-
-
-print "Konfliktus lesz...";
-
-
 ?>
